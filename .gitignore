@@ -24,6 +24,9 @@ main.app
 !main.cpp
 !main.h
 
+# VS Code settings
+.vscode/
+
 # Fortran module files
 *.mod
 *.smod
