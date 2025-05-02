@@ -16,6 +16,11 @@
 *.dylib
 *.dll
 main
+main.exe
+main.out
+main.app
+!main.cpp
+!main.h
 # Fortran module files
 *.mod
 *.smod
